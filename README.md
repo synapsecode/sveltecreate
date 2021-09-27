@@ -16,3 +16,8 @@ Available Modes:
 - ```SCSS``` (Creates a Svelte Project with SCSS)
 - ```Express``` (Creates a Svelte Project coupled with ExpressJS & SCSS)
 - ```Tailwind``` (Creates a Svelte Project coupled with TailwindCSS)
+
+
+## Updating
+If you have an outdated version of sveltecreate, no need to worry! Just copy the code from the latest ```svc.sh``` file on github and paste in your locally saved ```svc.sh``` file!
+You should be good to go!
