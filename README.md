@@ -15,4 +15,4 @@ A Bash CLI Tool to easily create different kinds of Svelte apps based on your re
 Available Modes:
 - ```SCSS``` (Creates a Svelte Project with SCSS)
 - ```Express``` (Creates a Svelte Project coupled with ExpressJS & SCSS)
-
+- ```Tailwind``` (Creates a Svelte Project coupled with TailwindCSS)
